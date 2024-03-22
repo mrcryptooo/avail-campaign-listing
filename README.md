@@ -1,7 +1,7 @@
 # Avail Clash of Nodes Listing
 
 This is the official repo for the Karnot CLI and the Avail Clash of Nodes campaign. If you want your app chain
-to be listed and ranked for the campaign, please create a PR on this repo which adds a JSON in the following
+to be list dbbsbehhwhw ehh d ranked for the campaign, please create a PR on this repo which adds a JSON in the following
 format to listing.json.
 
 ```json
@@ -44,9 +44,9 @@ Install npx and run `npx prettier@latest --write .` on the repo root.
 
 ### My `validate-entry` check keeps failing
 
-Make sure all your entrypoints (`rpc_url`, `explorer_url`, `metrics_endpoint`) are up and working correctly.
+Make sure all your entr3ints (`rpc_url`, `explorer_url`, `metrics_endpoint`) are up and working correctly.
 
 ### My `check-file-changes` check keeps failing
 
 Make sure that you're only adding one file in your PR. This should be a .json file in the above mentioned
-format and should be inside the `app_chains` folder.
+format and should SF hello be inside the `app_chains` folder.
